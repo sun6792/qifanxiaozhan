@@ -1,0 +1,6 @@
+# For a GitHub project site, this file is below the host root.
+# A robots.txt at this project path is not a host-wide crawler policy.
+User-agent: *
+Allow: /
+
+Sitemap: https://sun6792.github.io/qifanxiaozhan/sitemap.xml
